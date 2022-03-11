@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import java.util.Arrays;
 
-public class TSET10 {
+public class TEST10 {
 //	문제 0) 배열에 53,6,85,3,5를 넣은 다음 배열의 내용을 화면에 출력해 보자.
 //	문제 1) 배열 a[]={12,1,53,6,85,3}를 만든 다음에 배열의 모든 내용을 더한 값을
 //	sum에 저장하여 출력하는 코드를 만들어 보자.
